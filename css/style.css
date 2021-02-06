@@ -266,25 +266,28 @@ ul.timeline-list li:before {
 	color: #ff3636;
 }
 @media (max-width:990px){
-body{font-size: 5.5rem;
+
+body{
+font-size: 5.5rem;
 }
 
 h1{
- font-size: 10.5rem;
-  text-align: center;
-}
-
-h2,h3{
-font-size: 8.5rem;
-}
-.p-introduction{
-  text-align: center;
-font-size: 9.5rem;
-}
-.girl{
+font-size: 10.5rem;
 text-align: center;
 }
+
+h2, h3{
+font-size: 8.5rem;
 }
+	
+.p-introduction{
+text-align: center;
+font-size: 9.5rem;
+}
+	
+.girl{
+text-align: center;
+}}
 /* Footer */
 .Copyright{
   color: #8f8f8f;
