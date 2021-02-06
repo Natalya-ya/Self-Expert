@@ -267,22 +267,12 @@ ul.timeline-list li:before {
 }
 @media (max-width:990px){
 
-body{
-font-size: 3rem;
-}
-
 h1{
-font-size: 4.5rem;
 text-align: center;
-}
-
-h2, h3{
-font-size: 3.5rem;
 }
 	
 .p-introduction{
 text-align: center;
-font-size: 4.5rem;
 }
 	
 .girl{
