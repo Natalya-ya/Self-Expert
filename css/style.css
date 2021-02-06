@@ -267,6 +267,7 @@ ul.timeline-list li:before {
 }
 @media (max-width:990px){
 h1{
+ font-size: 3.5rem;
   text-align: center;
 }
 .p-introduction{
