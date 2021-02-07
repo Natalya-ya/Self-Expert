@@ -1,7 +1,6 @@
 body{
   font-family: 'Playfair Display', serif;
-  font-size: 20px;
-}
+  }
   /* sections */
   .colored-purple{
     background-color: #f0e5d8;
@@ -12,8 +11,8 @@ body{
   .p-introduction{
   text-align: left;
   line-height: 2.5rem;
-  padding-bottom: 10%;
-  font-size: 30px;}
+  padding-bottom: 19%;
+  font-size: 1.5rem;}
 
   .image-girl{
     margin-left: 13%;
@@ -23,12 +22,12 @@ body{
   color: #75cfb8;
   text-align: left;
   text-shadow: 2px 2px 4px #000000;
-  font-size: 50px;
+  font-size: 3rem;
   line-height: 1.5;
   }
   h2{
     font-weight: bold;
-    font-size: 25px;
+    font-size: 1.3rem;
     }
 
   h2, h3{
@@ -49,7 +48,7 @@ body{
 .navbar-brand{
 font-family: 'Ubuntu', sans-serif;
 font-weight: bold;
-font-size: 40px;
+font-size: 2.5rem;
 padding-left: 4.4rem;}
 
 .nav-item{
@@ -57,12 +56,12 @@ padding-left: 4.4rem;}
   font-weight: bold;
 }
 .nav-link{
-  font-size: 20px;
+  font-size: 1rem;
 }
 .navigation
 {background-color: #ffc478; }
 .Get-demo-lesson{
-  font-size: 25px;
+  font-size: 1.3rem;
   background-color:#ffc478;
   font-weight: bold;
   margin-bottom: 5%;
@@ -87,7 +86,7 @@ padding-left: 4.4rem;}
 }
 .h3-feature{
 font-weight: bold;
-font-size: 25px;}
+font-size: 1.5rem;}
 .feature{
   padding-top:2rem;
 }
@@ -117,10 +116,10 @@ color:#75cfb8;}
   background-color: #75cfb8;
 }
 .buy-now{
-  margin-top: 98%;
+  margin-top: 63%;
 }
 .buy-now2{
-  margin-top:45%;
+  margin-top:27%;
 }
 .speed{
   box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
@@ -136,7 +135,7 @@ color:#75cfb8;}
   color: #75cfb8;
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
-  font-size: 25px;
+  font-size: 3rem;
   line-height: 1.5;
 }
 .orange{
@@ -154,7 +153,7 @@ color:#75cfb8;}
   font-weight: bold;
   color: #75cfb8;
   text-shadow: 2px 2px 4px #000000;
-  font-size: 55px;
+  font-size: 3rem;
   line-height: 1.5;
 }
 .h3-price{
@@ -176,11 +175,11 @@ color:#75cfb8;}
 }
 .section-title p {
 	color: #777;
-	font-size: 25px;
+	font-size: 16px;
 }
 .section-title h4 {
 	text-transform: capitalize;
-	font-size: 50px;
+	font-size: 40px;
 	position: relative;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
@@ -244,7 +243,7 @@ ul.timeline-list li:nth-child(2n) .timeline_content {
 	text-align: left;
 }
 .timeline_content h4 {
-	font-size: 25px;
+	font-size: 22px;
 	font-weight: 600;
 	margin: 10px 0;
 }
@@ -261,7 +260,7 @@ ul.timeline-list li:before {
 	border-radius: 50%;
 }
 .timeline_content span {
-	font-size: 25px;
+	font-size: 18px;
 	font-weight: 500;
 	font-family: poppins;
 	color: #ff3636;
@@ -269,7 +268,7 @@ ul.timeline-list li:before {
 @media (max-width:990px){
 h1{
   text-align: center;
-  font-size: 50rem;
+  font-size: 3.5rem;
 }
 .p-introduction{
   text-align: center;
