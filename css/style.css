@@ -1,6 +1,7 @@
 body{
   font-family: 'Playfair Display', serif;
-  }
+  font-size: 20px;
+}
   /* sections */
   .colored-purple{
     background-color: #f0e5d8;
@@ -11,7 +12,7 @@ body{
   .p-introduction{
   text-align: left;
   line-height: 2.5rem;
-  padding-bottom: 19%;
+  padding-bottom: 10%;
   font-size: 30px;}
 
   .image-girl{
@@ -27,14 +28,14 @@ body{
   }
   h2{
     font-weight: bold;
-    font-size: 1.3rem;
+    font-size: 25px;
     }
 
   h2, h3{
     line-height: 1.5;
   }
 
-  #title .container-fluid{
+  .container-fluid{
    padding-left: 4.4rem;
   }
   .introduction{
@@ -48,7 +49,7 @@ body{
 .navbar-brand{
 font-family: 'Ubuntu', sans-serif;
 font-weight: bold;
-font-size: 2.5rem;
+font-size: 40px;
 padding-left: 4.4rem;}
 
 .nav-item{
@@ -56,12 +57,12 @@ padding-left: 4.4rem;}
   font-weight: bold;
 }
 .nav-link{
-  font-size: 1rem;
+  font-size: 20px;
 }
 .navigation
 {background-color: #ffc478; }
 .Get-demo-lesson{
-  font-size: 1.3rem;
+  font-size: 25px;
   background-color:#ffc478;
   font-weight: bold;
   margin-bottom: 5%;
@@ -86,7 +87,7 @@ padding-left: 4.4rem;}
 }
 .h3-feature{
 font-weight: bold;
-font-size: 1.5rem;}
+font-size: 25px;}
 .feature{
   padding-top:2rem;
 }
@@ -116,10 +117,10 @@ color:#75cfb8;}
   background-color: #75cfb8;
 }
 .buy-now{
-  margin-top: 63%;
+  margin-top: 98%;
 }
 .buy-now2{
-  margin-top:27%;
+  margin-top:45%;
 }
 .speed{
   box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26);
@@ -135,7 +136,7 @@ color:#75cfb8;}
   color: #75cfb8;
   font-weight: bold;
   text-shadow: 2px 2px 4px #000000;
-  font-size: 3rem;
+  font-size: 25px;
   line-height: 1.5;
 }
 .orange{
@@ -153,7 +154,7 @@ color:#75cfb8;}
   font-weight: bold;
   color: #75cfb8;
   text-shadow: 2px 2px 4px #000000;
-  font-size: 3rem;
+  font-size: 55px;
   line-height: 1.5;
 }
 .h3-price{
@@ -175,11 +176,11 @@ color:#75cfb8;}
 }
 .section-title p {
 	color: #777;
-	font-size: 16px;
+	font-size: 25px;
 }
 .section-title h4 {
 	text-transform: capitalize;
-	font-size: 40px;
+	font-size: 50px;
 	position: relative;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
@@ -243,7 +244,7 @@ ul.timeline-list li:nth-child(2n) .timeline_content {
 	text-align: left;
 }
 .timeline_content h4 {
-	font-size: 22px;
+	font-size: 25px;
 	font-weight: 600;
 	margin: 10px 0;
 }
@@ -260,24 +261,23 @@ ul.timeline-list li:before {
 	border-radius: 50%;
 }
 .timeline_content span {
-	font-size: 18px;
+	font-size: 25px;
 	font-weight: 500;
 	font-family: poppins;
 	color: #ff3636;
 }
 @media (max-width:990px){
-
 h1{
-text-align: center;
+  text-align: center;
+  font-size: 50rem;
 }
-	
 .p-introduction{
-text-align: center;
+  text-align: center;
 }
-	
 .girl{
 text-align: center;
-}}
+}
+}
 /* Footer */
 .Copyright{
   color: #8f8f8f;
